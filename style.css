@@ -1,4 +1,7 @@
 body{
     background-color: orange;
+    d-block w-100{
+        size: 100px;
 
+    }
 }
